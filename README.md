@@ -6,8 +6,8 @@ Introduction
 In this project, we explore hotel booking data to understand cancellation trends and predict hotel booking cancellations. By analyzing various features related to bookings, we aim to identify important factors that contribute to cancellations. The dataset used for this analysis contains booking information for a city hotel and a resort hotel in Portugal from 2015 to 2017.
 
 ## Dataset Details:
-
 The dataset includes the following key variables:
+
 Hotel Type: The dataset distinguishes between a resort hotel (H1) and a city hotel (H2).
 
 Cancellation Status: Indicates whether a booking was canceled (1) or not (0).
@@ -38,8 +38,10 @@ Room Types: Reserved and assigned room types (coded for anonymity).
 
 
 Goals:
-Feature Importance: Identify the most influential variables that contribute to cancellations.
-Insights for Hotels: Provide insights to hotel owners for better decision-making.
 
-Resources
+Identify the most influential variables that contribute to cancellations.
+Provide insights to hotel owners for better decision-making.
+
+Resources:
+
 The dataset used for this project can be found on Kaggle.
