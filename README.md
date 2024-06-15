@@ -1,5 +1,5 @@
 
-Hotel Booking Cancellation Analysis Project
+### Hotel Booking Cancellation Analysis Project
 
 #You can find report named as hotel-cancellastion-report.pdf
 
