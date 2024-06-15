@@ -45,3 +45,7 @@ Provide insights to hotel owners for better decision-making.
 Resources:
 
 The dataset used for this project can be found on Kaggle.
+
+Tool & Technique:
+
+pnadas numpy seaborn python 
